@@ -1,0 +1,115 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	background-color: white;
+}
+
+.intro {
+	top: 0px;
+	left: 30px;
+}
+
+main {
+	height: 1000px;
+	background-color: #ffffff;
+}
+
+.nav {
+	background-image: linear-gradient(to right, #0062a7, #39b8dc);
+	height: 100px;
+	font-size: 50px;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+.nav a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.katalog:hover {
+	transition: 2s;
+	font-size: 80px;
+	color: #adadad;
+}
+
+.kontacts:hover {
+	transition: 2s;
+	font-size: 80px;
+	color: #adadad;
+}
+
+.cem:hover {
+	transition: 2s;
+	font-size: 80px;
+	color: #adadad;
+}
+
+.nav .faq {
+	color: #adadad;
+}
+
+.faq:hover {
+	transition: 2s;
+	font-size: 80px;
+	color: #adadad;
+}
+
+.katal {
+	display: flex;
+	flex-wrap: wrap;
+}
+.post {
+	margin: 30px 20px ;
+	background-color: #FF9200;
+	width: 30%;
+	height: 650px;
+	border-radius: 10px;
+}
+
+.antena {
+	width: 90%;
+	height: 70%;
+	margin: 5% 5% 5% 5%
+}
+
+.camera {
+	width: 90%;
+	height: 70%;
+	margin: 5% 5% 5% 5%
+}
+
+.lampa {
+	width: 90%;
+	height: 70%;
+	margin: 5% 5% 5% 5%
+}
+
+.dan {
+	text-align: center;
+}
+
+.pod {
+	background-color: blue;
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+}
+
+.social {
+	background-color: #0000FF;
+	position: fixed;
+	border-radius: 10px;
+	padding: 5px;
+	bottom: 0px;
+	right: 0px;
+}
+
+.soc {
+	display: block;
+	margin: 5px;
+}
