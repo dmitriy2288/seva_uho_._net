@@ -3,6 +3,11 @@ body {
 	padding: 0px;
 }
 
+.b {
+	top: 0px;
+	left: 300px;
+}
+
 header {
 	background-color: white;
 }
