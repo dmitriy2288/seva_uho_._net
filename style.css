@@ -3,13 +3,8 @@ body {
 	padding: 0px;
 }
 
-.b {
-	top: 0px;
-	left: 300px;
-}
-
 header {
-	background-color: pink;
+	background-color: white;
 }
 
 .intro {
@@ -34,10 +29,6 @@ main {
 .nav a {
 	color: #ffffff;
 	text-decoration: none;
-}
-
-.a {
-	text-align: center;
 }
 
 .katalog:hover {
