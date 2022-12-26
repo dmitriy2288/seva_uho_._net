@@ -12,6 +12,10 @@ header {
 	left: 30px;
 }
 
+.b {
+	text-align: center;
+}
+
 main {
 	height: 1000px;
 	background-color: #ffffff;
